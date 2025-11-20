@@ -1,5 +1,5 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -54,6 +54,11 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+<img width="440" height="187" alt="image" src="https://github.com/user-
+attachments/assets/ba084688-b39d-4657-a226-d848b4b1e0b9" />
+
+<img width="451" height="321" alt="image" src="https://github.com/user-attachments/assets/f8243b2f-ca8c-4165-a898-99114617b5c1" />
+
 
 
 ### PREPROCESSING
@@ -76,6 +81,12 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+<img width="537" height="191" alt="image" src="https://github.com/user-attachments/assets/676b8c66-e262-448d-a668-15ec6bc21ff5" />
+
+<img width="540" height="303" alt="image" src="https://github.com/user-attachments/assets/11956da6-e980-4c4b-b53d-623d4d5a5b95" />
+
+
+
 ### 2) Remove -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -92,6 +103,11 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+<img width="457" height="174" alt="image" src="https://github.com/user-attachments/assets/9dcdca98-f5dc-4df3-a9ee-0e2ee657749c" />
+
+<img width="463" height="299" alt="image" src="https://github.com/user-attachments/assets/7e2df5fc-4510-4c68-9452-2a20c79e854a" />
+
+
 ### Normalize -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -107,5 +123,13 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+
+<img width="456" height="172" alt="image" src="https://github.com/user-attachments/assets/74dcf008-f8f5-40c7-9745-7ee5b77ae9be" />
+
+
+<img width="464" height="296" alt="image" src="https://github.com/user-attachments/assets/43aaf73e-68d7-4c83-9af1-8b7d1bb573d4" />
+
+
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
